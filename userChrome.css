@@ -3,7 +3,7 @@ panelview,
   background: #15141a !important;  
   color: firebrick !important;
 }
-#tabbrowser-newtabs
+#reload-button
 {
   display: none;
 }
