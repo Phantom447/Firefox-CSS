@@ -4,7 +4,7 @@ panelview,
   color: firebrick !important;
 }
 #reload-button,#back-button,#forward-button,#star-button-box,#reader-mode-button,#tabs-newtab-button
-,tab,.toolbarbutton-1,#history-panel
+,#history-panel
 {
   display: none;
 }
