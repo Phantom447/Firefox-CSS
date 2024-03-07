@@ -4,7 +4,11 @@ panelview,
   color: firebrick !important;
 }
 #reload-button,#back-button,#forward-button,#star-button-box,#reader-mode-button,#tabs-newtab-button
-,#history-panel
+/*,.tabbrowser-tab:not([selected])*/,.tabbrowser-tab[selected]
+{
+  display: none;
+}
+#history-panel
 {
   display: none;
 }
